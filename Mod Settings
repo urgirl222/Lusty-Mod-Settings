@@ -652,7 +652,7 @@ CollectionInterval=300
 [LQU]
 HideBuffIcon=True
 UiIcon=Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'
-UiKey=F4
+UiKey=F5
 UiName=Lusty Looters Quests
 
 [PaleoARK]
