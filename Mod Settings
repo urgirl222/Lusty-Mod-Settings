@@ -187,7 +187,7 @@ DisallowDedicatedStorageOnSaddle=False
 DisallowGasCollectorPhoneHome=False
 DisallowOilPumpPhoneHome=False
 DisallowTekTreeSapTapPhoneHome=False
-DiscordWebhook=[REDACTED]
+DiscordWebhook="https://discord.com/api/webhooks/1328286172576874497/v_bK16FZFrMBDaAc4N0hgoF4kp1ovbSHedGIHJXESrB_vH06AqWfnvjrS1CdIFXbFsX0"
 ElementCatalyzerCraftingSpeed=1
 EnableEngramOverride=False
 EnableExtendedDeathCache=False
@@ -506,7 +506,7 @@ BabiesAgeInDinoball=False
 BabiesGeneratePoop=True
 BabiesImprintInDinoBall=False
 BabyAgeInDinoballCap=0
-BlockInGameSettings=True
+BlockInGameSettings=False
 CaptureCullRecoveryDataAfterSeconds=10
 CaptureGestatingMode=0
 CaptureInventoryHandlingMode=0
@@ -652,7 +652,7 @@ CollectionInterval=300
 [LQU]
 HideBuffIcon=True
 UiIcon=Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'
-UiKey=F5
+UiKey=F3
 UiName=Lusty Looters Quests
 
 [PaleoARK]
@@ -797,7 +797,7 @@ TitleDespawn=A Shiny Dino has despawned!
 TitleKilled=A Shiny Dino has been killed!
 TitleSpawn=**A Shiny** has spawned on [MapName]!
 TitleTamed=A Shiny Dino has been tamed!
-WebhookURL=[REDACTED]
+WebhookURL="https://discord.com/api/webhooks/1328269650923880488/JXssdTxsIKo9Dh6na-4sLwbWjoWOD4iP8ud232kDuY3lXiAXUZe1UZ68JjogWZ4LM7Zw"
 
 [Sprinkles]
 CraftingPotionCooldown=0
